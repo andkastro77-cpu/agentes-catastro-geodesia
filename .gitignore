@@ -1,0 +1,25 @@
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Entornos y credenciales
+.env
+.env.*
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OpenCode / Ollama locales
+.opencode/cache/
+*.log
